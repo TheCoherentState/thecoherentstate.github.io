@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## The Coherent State
-
 Welcome to The Coherent State: the knowledge directory and project catalogue of [Jack Ceroni](https://lucaman99.github.io).
 
 This is essentially the second versiomn of my personal website. I'm hoping that this will be the place where 
