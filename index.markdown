@@ -1,14 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
 Welcome to The Coherent State: the knowledge directory and project catalogue of [Jack Ceroni](https://lucaman99.github.io).
 
-This is essentially the second versiomn of my personal website. I'm hoping that this will be the place where 
-I store information related to all of the projects I'm working on, my blog, other writings, solutions to interesting problems, and 
+This is essentially version 2.0 of my personal website. I'm hoping that this will be the place where 
+I store information related to all of the projects I'm working on, notes, my more informal blog, other writings, solutions to interesting problems, and 
 more.
 
 Stay tuned for more content (see below)!
@@ -20,7 +17,7 @@ Stay tuned for more content (see below)!
 
 **Directory:** A collection of notes, and solutions to interesting math/physics problems, among other technical writings [[website](https://thecoherentstate.github.io/directory)]
 
-**Blog:** More informal writings, and monthly retrospectives [[website](https://thecoherentstate.github.io/blog)]
+**Blog:** Informal writings, and monthly retrospectives (formal essays are reserved for Substack) [[website](https://thecoherentstate.github.io/blog)]
 
 ---
 <div class="divider" style="height:10px;"></div>
