@@ -1,7 +1,7 @@
 #+TITLE:The Coherent State
 #+DESCRIPTION:The Coherent State
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-#+HTML_HEAD: <style> body {font-size:15px;} </style>
+#+HTML_HEAD: <style> body {font-size:15px; background-color:black; color:white;} .title {color:white;} </style>
 
 
 Welcome to The Coherent State: the knowledge directory and project catalogue of [[https://lucaman99.github.io][Jack Ceroni]].
@@ -10,7 +10,9 @@ This is essentially version 2.0 of my personal website. I'm hoping that this wil
 I store information related to all of the projects I'm working on, notes, my more informal blog, other writings, solutions to interesting problems, and 
 more.
 
-Stay tuned for more content (see below).
+Stay tuned for more content (see below). See the [[https://thecoherentstate.github.io/changelog.html][changelog]] for recent changes to this website.
 
-+ *Directory:* A collection of notes, and solutions to interesting math/physics problems, among other technical writings: [[https://thecoherentstate.github.io/directory]]
-+ *Blog:* Informal writings, and monthly retrospectives (formal essays are reserved for Substack): https://thecoherentstate.github.io/blog
++ *Directory* [[[https://thecoherentstate.github.io/directory]]]: A collection of notes, and solutions to interesting math/physics problems, among other technical writings.
++ *Blog* [https://thecoherentstate.github.io/blog]: Informal writings, and monthly retrospectives (formal essays are reserved for Substack).
++ *Chalkboard* [https://thecoherentstate.github.io/chalkboard]: A place to post math problems and solutions. My solution to Brilliant.org destroying its best features.
+
