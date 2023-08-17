@@ -1,7 +1,7 @@
 #+TITLE:The Coherent State
 #+DESCRIPTION:The Coherent State
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-#+HTML_HEAD: <style> body {font-size:15px; background-color:black; color:white;} .title {color:white;} </style>
+#+HTML_HEAD: <style> body {font-size:15px; background-color:black; color:white;} .title {color:white;} a {color:red;} </style>
 
 
 Welcome to The Coherent State: the knowledge directory and project catalogue of [[https://lucaman99.github.io][Jack Ceroni]].
